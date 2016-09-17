@@ -1,1 +1,4 @@
 bin/mb
+.cproject
+.project
+.settings
